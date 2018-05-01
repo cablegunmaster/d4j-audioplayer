@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Class-Path: mp3spi-1.9.5.4.jar koloboke-api-jdk8-1.0.0.jar tritonus-ds
+ p-0.3.6.jar commons-logging-1.2.jar commons-io-2.6.jar typetools-0.5.
+ 0.jar jetty-util-9.4.8.v20171121.jar commons-codec-1.10.jar httpclien
+ t-4.5.4.jar slf4j-api-1.7.25.jar jackson-databind-2.9.2.jar httpmime-
+ 4.5.4.jar jackson-module-afterburner-2.9.2.jar emoji-java-4.0.0.jar j
+ orbis-0.0.17.jar jflac-codec-1.5.2.jar jetty-client-9.4.8.v20171121.j
+ ar jetty-xml-9.4.8.v20171121.jar jlayer-1.0.1.4.jar jna-4.5.0.jar kol
+ oboke-impl-common-jdk8-1.0.0.jar json-20170516.jar websocket-api-9.4.
+ 8.v20171121.jar jackson-annotations-2.9.0.jar websocket-common-9.4.8.
+ v20171121.jar jackson-core-2.9.2.jar jetty-http-9.4.8.v20171121.jar w
+ ebsocket-client-9.4.8.v20171121.jar Discord4J-2.10.1.jar junit-3.8.2.
+ jar slf4j-log4j12-1.7.7.jar tritonus-share-0.3.7.4.jar commons-lang3-
+ 3.7.jar log4j-1.2.17.jar httpcore-4.4.8.jar jetty-io-9.4.8.v20171121.
+ jar
+Main-Class: botty.io.BottyIOPlayer
+
